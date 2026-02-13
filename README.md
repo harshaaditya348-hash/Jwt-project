@@ -1,2 +1,2 @@
 # Jwt-project
-Developed a full-stack authentication and user management system using Spring Boot and Spring Security with JWT-based stateless authentication. Implemented user registration with email verification, secure login, token generation, and protected REST APIs. 
+Developed a full-stack authentication and user management system using Spring Boot and Spring Security with JWT-based stateless authentication. Implemented user registration with email verification, secure login, token generation, and protected REST APIs. Integrated Supabase as the backend database and designed robust error handling and validation. The system demonstrates enterprise-grade security practices including role-based access control, encrypted passwords, and token validation.
